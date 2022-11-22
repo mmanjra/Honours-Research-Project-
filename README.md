@@ -2,14 +2,16 @@
 
 # Dataset
 The dataset consists of 2 folders.
+
 Images of humans can be found in the test folder
-(https://github.com/mmanjra/Honours-Research-Project-/tree/main/test)
+
 Images of non-humans can be found in the nonhumans folder
-(https://github.com/mmanjra/Honours-Research-Project-/tree/main/nonhumans)
+
 
 # Poacher Detection
 ## Histogram of Oriented Gradients (HOG) descriptor and Linear Support Vector Machine (SVM) Classfier
 Feature Extraction using HOG
+
 Binary Classification using linear SVM classifer
 
 Implementation is in the HoG folder
